@@ -3,7 +3,7 @@ Demo Content for Azure Databricks session during Microsoft Azure Open Source Vir
 
 ## Introduction
 
-In this demo, we'll use [Azure Databricks](https://azure.microsoft.com/en-us/services/databricks/) to analyze a public dataset onn [DBFS](https://docs.azuredatabricks.net/user-guide/dbfs-databricks-file-system.html), and then store the output data on your own Azure Blob Storage and Azure Data Lake Store.
+In this demo, we'll use [Azure Databricks](https://azure.microsoft.com/en-us/services/databricks/) to analyze a public dataset on [DBFS](https://docs.azuredatabricks.net/user-guide/dbfs-databricks-file-system.html), and then store the output data on your own Azure Blob Storage and Azure Data Lake Store.
 
 ## Instructions
 
